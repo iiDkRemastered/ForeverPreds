@@ -8,7 +8,7 @@ A GUI should pop up on your screen with a slider and other settings. Simply turn
 
 ## Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/ForeverPreds/releases/latest)
+- Download the release from [here](https://github.com/iiDkRemastered/ForeverPreds/releases/latest)
 - Drag the file `ForeverPreds.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
